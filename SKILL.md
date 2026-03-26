@@ -221,6 +221,12 @@ minimax-tts/
 
 MIT
 
+## 🔗 相关链接
+
+- **GitHub 仓库**: https://github.com/leon30083/minimax-tts-skill
+- **MiniMax 国际站**: https://platform.minimax.io
+- **API 文档**: https://platform.minimax.io/docs/api-reference/speech-t2a-intro
+
 ## 🙏 致谢
 
 - MiniMax 国际站 API
