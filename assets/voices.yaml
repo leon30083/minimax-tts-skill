@@ -1,0 +1,392 @@
+# MiniMax 国际站中文音色库
+# 更新时间: 2026-03-26
+# 来源: https://platform.minimax.io/docs/faq/system-voice-id
+
+version: 1.0
+updated_at: 2026-03-26
+
+# 音色定义
+voices:
+  # ==================== 女声 ====================
+  
+  - id: "Chinese (Mandarin)_Warm_Girl"
+    name: "温暖女声"
+    name_en: "Warm Girl"
+    gender: female
+    age: young
+    description: "温暖亲切的年轻女性声音，适合儿童故事和绘本旁白"
+    tags:
+      - 温暖
+      - 亲切
+      - 友好
+      - 治愈
+    scenes:
+      - 儿童故事
+      - 绘本旁白
+      - 情感内容
+      - 治愈系
+    emotion_range:
+      - 温柔
+      - 开心
+      - 感动
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: "preview_温暖女声.mp3"
+    quality_score: 95
+    recommended_for:
+      - 儿童绘本
+      - 睡前故事
+      - 情感电台
+
+  - id: "Chinese (Mandarin)_Cute_Spirit"
+    name: "可爱精灵"
+    name_en: "Cute Spirit"
+    gender: female
+    age: young
+    description: "可爱俏皮的精灵般声音，活泼有感染力"
+    tags:
+      - 可爱
+      - 俏皮
+      - 活泼
+      - 童趣
+    scenes:
+      - 儿童故事
+      - 童话故事
+      - 动画配音
+      - 绘本旁白
+    emotion_range:
+      - 开心
+      - 惊喜
+      - 调皮
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: "preview_可爱精灵.mp3"
+    quality_score: 90
+    recommended_for:
+      - 童话故事
+      - 动画角色
+      - 欢快内容
+
+  - id: "Chinese (Mandarin)_Sweet_Lady"
+    name: "甜美女声"
+    name_en: "Sweet Lady"
+    gender: female
+    age: young
+    description: "甜美动人的女性声音，温柔可爱"
+    tags:
+      - 甜美
+      - 温柔
+      - 动听
+      - 可爱
+    scenes:
+      - 儿童故事
+      - 浪漫故事
+      - 广告配音
+      - 情感电台
+    emotion_range:
+      - 甜蜜
+      - 温柔
+      - 开心
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: "preview_甜美女声.mp3"
+    quality_score: 85
+    recommended_for:
+      - 儿童故事
+      - 浪漫内容
+      - 广告配音
+
+  - id: "Chinese (Mandarin)_Warm_Bestie"
+    name: "温暖闺蜜"
+    name_en: "Warm Bestie"
+    gender: female
+    age: young
+    description: "像闺蜜一样温暖亲切的女性声音，活泼友好"
+    tags:
+      - 闺蜜
+      - 亲切
+      - 活泼
+      - 友好
+    scenes:
+      - 生活分享
+      - 情感内容
+      - Vlog
+      - 广告配音
+    emotion_range:
+      - 开心
+      - 友好
+      - 热情
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: "preview_温暖闺蜜.mp3"
+    quality_score: 88
+    recommended_for:
+      - 生活分享
+      - 情感交流
+      - Vlog 旁白
+
+  - id: "Chinese (Mandarin)_News_Anchor"
+    name: "新闻女声"
+    name_en: "News Anchor"
+    gender: female
+    age: middle
+    description: "专业的女性新闻主播，播音腔标准"
+    tags:
+      - 专业
+      - 播音
+      - 标准
+      - 正式
+    scenes:
+      - 新闻播报
+      - 正式场合
+      - 企业宣传
+      - 纪录片
+    emotion_range:
+      - 平稳
+      - 专业
+      - 严肃
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: null
+    quality_score: 80
+    recommended_for:
+      - 新闻播报
+      - 正式场合
+      - 企业宣传
+
+  - id: "Chinese (Mandarin)_Mature_Woman"
+    name: "成熟女声"
+    name_en: "Mature Woman"
+    gender: female
+    age: middle
+    description: "成熟稳重的女性声音，知性优雅"
+    tags:
+      - 成熟
+      - 稳重
+      - 知性
+      - 优雅
+    scenes:
+      - 纪录片
+      - 企业宣传
+      - 情感故事
+      - 有声书
+    emotion_range:
+      - 稳重
+      - 知性
+      - 温柔
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: null
+    quality_score: 75
+    recommended_for:
+      - 纪录片
+      - 有声书
+      - 企业宣传
+
+  # ==================== 男声 ====================
+
+  - id: "Chinese (Mandarin)_Gentle_Youth"
+    name: "温和青年"
+    name_en: "Gentle Youth"
+    gender: male
+    age: young
+    description: "温和的年轻男性声音，亲切友好"
+    tags:
+      - 温和
+      - 亲切
+      - 友好
+      - 年轻
+    scenes:
+      - 儿童故事
+      - 教学视频
+      - 产品解说
+      - 科普视频
+    emotion_range:
+      - 温和
+      - 友好
+      - 耐心
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: "preview_温和青年.mp3"
+    quality_score: 85
+    recommended_for:
+      - 儿童内容
+      - 教学视频
+      - 科普解说
+
+  - id: "Chinese (Mandarin)_Pure-hearted_Boy"
+    name: "纯真少年"
+    name_en: "Pure-hearted Boy"
+    gender: male
+    age: young
+    description: "纯真无邪的少年声音，清澈天真"
+    tags:
+      - 纯真
+      - 少年
+      - 清澈
+      - 天真
+    scenes:
+      - 儿童故事
+      - 童话故事
+      - 动画片
+      - 绘本旁白
+    emotion_range:
+      - 纯真
+      - 开心
+      - 好奇
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: "preview_纯真少年.mp3"
+    quality_score: 80
+    recommended_for:
+      - 童话故事
+      - 儿童动画
+      - 绘本旁白
+
+  - id: "Chinese (Mandarin)_Reliable_Executive"
+    name: "沉稳高管"
+    name_en: "Reliable Executive"
+    gender: male
+    age: middle
+    description: "一位沉稳可靠的中年男性高管声音，标准普通话，传递出值得信赖的感觉"
+    tags:
+      - 沉稳
+      - 专业
+      - 可靠
+      - 商务
+    scenes:
+      - 企业宣传
+      - 产品介绍
+      - 纪录片旁白
+      - 新闻播报
+    emotion_range:
+      - 沉稳
+      - 专业
+      - 可靠
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: null
+    quality_score: 75
+    recommended_for:
+      - 企业宣传
+      - 商务内容
+      - 纪录片
+
+  - id: "Chinese (Mandarin)_Gentleman"
+    name: "绅士男声"
+    name_en: "Gentleman"
+    gender: male
+    age: middle
+    description: "温文尔雅的绅士声音，彬彬有礼"
+    tags:
+      - 绅士
+      - 优雅
+      - 温和
+      - 成熟
+    scenes:
+      - 故事旁白
+      - 情感电台
+      - 有声书
+      - 纪录片
+    emotion_range:
+      - 优雅
+      - 温和
+      - 深情
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: null
+    quality_score: 78
+    recommended_for:
+      - 有声书
+      - 情感电台
+      - 故事旁白
+
+  - id: "Chinese (Mandarin)_Kind-hearted_Elder"
+    name: "慈祥老人"
+    name_en: "Kind-hearted Elder"
+    gender: male
+    age: elder
+    description: "慈祥的老年男性声音，充满关爱"
+    tags:
+      - 慈祥
+      - 老人
+      - 温暖
+      - 关爱
+    scenes:
+      - 童话故事
+      - 传统故事
+      - 历史故事
+      - 回忆录
+    emotion_range:
+      - 慈祥
+      - 温暖
+      - 关爱
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: null
+    quality_score: 72
+    recommended_for:
+      - 传统故事
+      - 历史内容
+      - 童话故事
+
+  # ==================== 特殊音色 ====================
+
+  - id: "Robot_Armor"
+    name: "机器人"
+    name_en: "Robot Armor"
+    gender: neutral
+    age: middle
+    description: "机械感的机器人声音"
+    tags:
+      - 机械
+      - 科技
+      - 未来
+      - 机器人
+    scenes:
+      - 科幻内容
+      - 科技产品
+      - AI助手
+    emotion_range:
+      - 机械
+      - 中性
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    preview_file: null
+    quality_score: 70
+    recommended_for:
+      - 科幻内容
+      - 科技产品
+      - AI 助手
+
+# 场景映射
+scene_mapping:
+  儿童故事:
+    - "Chinese (Mandarin)_Warm_Girl"
+    - "Chinese (Mandarin)_Cute_Spirit"
+    - "Chinese (Mandarin)_Gentle_Youth"
+    - "Chinese (Mandarin)_Pure-hearted_Boy"
+  
+  绘本旁白:
+    - "Chinese (Mandarin)_Warm_Girl"
+    - "Chinese (Mandarin)_Cute_Spirit"
+    - "Chinese (Mandarin)_Pure-hearted_Boy"
+  
+  纪录片:
+    - "Chinese (Mandarin)_Reliable_Executive"
+    - "Chinese (Mandarin)_Gentleman"
+    - "Chinese (Mandarin)_Mature_Woman"
+  
+  企业宣传:
+    - "Chinese (Mandarin)_Reliable_Executive"
+    - "Chinese (Mandarin)_News_Anchor"
+    - "Chinese (Mandarin)_Mature_Woman"
+  
+  有声书:
+    - "Chinese (Mandarin)_Gentleman"
+    - "Chinese (Mandarin)_Mature_Woman"
+
+# 情感映射
+emotion_mapping:
+  温柔:
+    - "Chinese (Mandarin)_Warm_Girl"
+    - "Chinese (Mandarin)_Sweet_Lady"
+    - "Chinese (Mandarin)_Gentleman"
+  
+  欢快:
+    - "Chinese (Mandarin)_Cute_Spirit"
+    - "Chinese (Mandarin)_Warm_Bestie"
+    - "Chinese (Mandarin)_Pure-hearted_Boy"
+  
+  专业:
+    - "Chinese (Mandarin)_News_Anchor"
+    - "Chinese (Mandarin)_Reliable_Executive"
+    - "Chinese (Mandarin)_Mature_Woman"

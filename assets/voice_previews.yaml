@@ -1,0 +1,64 @@
+# 样音索引
+# 自动生成，请勿手动编辑
+
+version: 1.0
+generated_at: "2026-03-26T09:27:00"
+
+# 已缓存的样音
+previews:
+  "Chinese (Mandarin)_Warm_Girl":
+    voice_name: "温暖女声"
+    preview_file: "preview_温暖女声.mp3"
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    generated_at: "2026-03-26T09:06:00"
+    file_size_kb: 69
+    duration_seconds: 3.5
+  
+  "Chinese (Mandarin)_Cute_Spirit":
+    voice_name: "可爱精灵"
+    preview_file: "preview_可爱精灵.mp3"
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    generated_at: "2026-03-26T09:06:00"
+    file_size_kb: 89
+    duration_seconds: 4.5
+  
+  "Chinese (Mandarin)_Sweet_Lady":
+    voice_name: "甜美女声"
+    preview_file: "preview_甜美女声.mp3"
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    generated_at: "2026-03-26T09:06:00"
+    file_size_kb: 74
+    duration_seconds: 3.7
+  
+  "Chinese (Mandarin)_Warm_Bestie":
+    voice_name: "温暖闺蜜"
+    preview_file: "preview_温暖闺蜜.mp3"
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    generated_at: "2026-03-26T09:06:00"
+    file_size_kb: 69
+    duration_seconds: 3.5
+  
+  "Chinese (Mandarin)_Gentle_Youth":
+    voice_name: "温和青年"
+    preview_file: "preview_温和青年.mp3"
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    generated_at: "2026-03-26T09:06:00"
+    file_size_kb: 73
+    duration_seconds: 3.7
+  
+  "Chinese (Mandarin)_Pure-hearted_Boy":
+    voice_name: "纯真少年"
+    preview_file: "preview_纯真少年.mp3"
+    preview_text: "你好，这是我的声音试听。欢迎来到儿童故事时间！"
+    generated_at: "2026-03-26T09:06:00"
+    file_size_kb: 84
+    duration_seconds: 4.2
+
+# 待生成的样音
+missing_previews:
+  - "Chinese (Mandarin)_News_Anchor"
+  - "Chinese (Mandarin)_Mature_Woman"
+  - "Chinese (Mandarin)_Reliable_Executive"
+  - "Chinese (Mandarin)_Gentleman"
+  - "Chinese (Mandarin)_Kind-hearted_Elder"
+  - "Robot_Armor"

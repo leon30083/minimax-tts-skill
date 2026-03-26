@@ -1,0 +1,49 @@
+# 环境变量
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 输出文件（保留示例）
+outputs/*
+!outputs/.gitkeep
+
+# 样音缓存（保留部分示例）
+previews/*
+!previews/.gitkeep
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
